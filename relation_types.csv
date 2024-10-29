@@ -1,0 +1,36 @@
+isCitedBy,Is cited by
+cites,Cites
+isSupplementTo,Is supplement to
+isSupplementedBy,Is supplemented by
+isContinuedBy,Is continued by
+continues,Continues
+isDescribedBy,Is described by
+describes,Describes
+hasMetadata,Has metadata
+isMetadataFor,Is metadata for
+hasVersion,Has version
+isVersionOf,Is version of
+isNewVersionOf,Is new version of
+isPreviousVersionOf,Is previous version of
+isPartOf,Is part of
+hasPart,Has part
+isPublishedIn,Is published in
+isReferencedBy,Is referenced by
+references,References
+isDocumentedBy,Is documented by
+documents,Documents
+isCompiledBy,Is compiled by
+compiles,Compiles
+isVariantFormOf,Is variant form of
+isOriginalFormOf,Is original form of
+isIdenticalTo,Is identical to
+isReviewedBy,Is reviewed by
+reviews,Reviews
+isDerivedFrom,Is derived from
+isSourceOf,Is source of
+isRequiredBy,Is required by
+requires,Requires
+isObsoletedBy,Is obsoleted by
+obsoletes,Obsoletes
+isCollectedBy,Is collected by
+collects,Collects
