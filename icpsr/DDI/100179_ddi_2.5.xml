@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" xmlns="ddi:codebook:2_5"  version="2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <docDscr>
+        <citation>
+            <titlStmt>
+                <titl>Metadata record for High Intensity Interval- vs Moderate Intensity- Training for Improving Cardiometabolic Health in Overweight or Obese Males: A Randomized Controlled Trial</titl>
+                <IDNo agency="ICPSR">100179</IDNo>
+            </titlStmt>
+            <prodStmt>
+                <producer abbr="ICPSR">Inter-university Consortium for Political and Social Research</producer>
+                <copyright>ICPSR metadata records are licensed under a Creative Commons Attribution-Noncommercial 3.0 United States License.</copyright>
+            </prodStmt>
+            <verStmt>
+                <version date="2024-11-05">V1</version>
+            </verStmt>
+        </citation>
+    </docDscr>
+    <stdyDscr>
+        <citation>
+            <titlStmt>
+                <titl>High Intensity Interval- vs Moderate Intensity- Training for Improving Cardiometabolic Health in Overweight or Obese Males: A Randomized Controlled Trial</titl>
+                <IDNo agency="ICPSR">100179</IDNo>
+                <IDNo agency="dara">http://doi.org/10.3886/E53793V1</IDNo>
+            </titlStmt>
+            <rspStmt>
+                <AuthEnty affiliation="University of Alabama at Birmingham">David B. Allison</AuthEnty>
+                <AuthEnty affiliation="University of Alabama at Birmingham">Gordon Fisher</AuthEnty>
+            </rspStmt>
+            <prodStmt>
+                <producer>Please see full citation.</producer>
+                <copyright>This work is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</copyright>
+                <fundAg>The Coca-Cola Foundation</fundAg>
+                <fundAg>National Institutes of Health</fundAg>
+                <fundAg>National Institutes of Health</fundAg>
+                <fundAg>National Institutes of Health</fundAg>
+                <grantNo agency="The Coca-Cola Foundation"></grantNo>
+                <grantNo agency="National Institutes of Health">P30DK056336</grantNo>
+                <grantNo agency="National Institutes of Health">UL1RR025777</grantNo>
+                <grantNo agency="National Institutes of Health">T32DK062710</grantNo>
+            </prodStmt>
+            <distStmt>
+                <distrbtr abbr="ICPSR">Ann Arbor, MI: Inter-university Consortium for Political and Social Research</distrbtr>
+                <distDate date="2024-11-05"/>
+            </distStmt>
+            <biblCit>
+  Allison, D. B., & Fisher, G. (2016). High Intensity Interval- vs Moderate Intensity- Training for Improving Cardiometabolic Health in Overweight or Obese Males: A Randomized Controlled Trial [Data set]. Inter-university Consortium for Political and Social Research [distributor]. https://doi.org/10.3886/E53793V1
+</biblCit>
+            <holdings URI="https://www.openicpsr.org/openicpsr/project/100179/version/V1/view"></holdings>
+        </citation>
+        <stdyInfo>
+            <subject>
+                <keyword vocab="ICPSR">Liproproteins</keyword>
+                <keyword vocab="ICPSR">Blood</keyword>
+                <keyword vocab="ICPSR">Obesity</keyword>
+                <keyword vocab="ICPSR">Blood Pressure</keyword>
+                <keyword vocab="ICPSR">Lipids</keyword>
+                <keyword vocab="ICPSR">Physical Fitness</keyword>
+                <keyword vocab="ICPSR">Exercise</keyword>
+                <keyword vocab="ICPSR">Insulin</keyword>
+            </subject>
+            <abstract>Purpose: To compare the effects of six weeks of high intensity interval training (HIIT) vs continuous moderate intensity training (MIT) for improving body composition, insulin sensitivity (SI), blood pressure, blood lipids, and cardiovascular fitness in a cohort of sedentary overweight or obese young men. We hypothesized that HIIT would result in similar improvements in body composition, cardiovascular fitness, blood lipids, and SI as compared to the MIT group, despite requiring only one hour of activity per week compared to five hours per week for the MIT group. Twenty-eight sedentary overweight or obese men (age, 20 ± 1.5 years, body mass index 29.5 ± 3.3 kg/m2) participated in a six week exercise treatment. Participants were randomly assigned to HIIT or MIT and evaluated at baseline and post-training. DXA was used to assess body composition, graded treadmill exercise test to measure cardiovascular fitness, oral glucose tolerance to measure SI, nuclear magnetic resonance spectroscopy to assess lipoprotein particles, and automatic auscultation to measure blood pressure.</abstract>
+            <sumDscr>
+                <timePrd event="start" cycle="C1" date="2013-01-10T00:00:00"/>
+                <timePrd event="end" cycle="C1" date="2014-10-30T00:00:00"/>
+                <geogCover>Alabama</geogCover>
+                <geogUnit></geogUnit>
+                <anlyUnit></anlyUnit>
+                <universe></universe>
+            </sumDscr>
+        </stdyInfo>
+        <method>
+            <dataColl>
+                <sampProc></sampProc>
+                <sources>
+                    <dataSrc></dataSrc>
+                </sources>
+                <weight></weight>
+            </dataColl>
+            <anlyInfo>
+                <respRate></respRate>
+            </anlyInfo>
+        </method>
+    </stdyDscr>
+</codeBook>

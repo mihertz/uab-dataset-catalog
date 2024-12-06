@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" xmlns="ddi:codebook:2_5"  version="2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <docDscr>
+        <citation>
+            <titlStmt>
+                <titl>Metadata record for Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE), United States, 1999-2008</titl>
+                <IDNo agency="ICPSR">36036</IDNo>
+            </titlStmt>
+            <prodStmt>
+                <producer abbr="ICPSR">Inter-university Consortium for Political and Social Research</producer>
+                <copyright>ICPSR metadata records are licensed under a Creative Commons Attribution-Noncommercial 3.0 United States License <ExtLink URI="http://creativecommons.org/licenses/by-nc/3.0/us/"/>..</copyright>
+            </prodStmt>
+            <verStmt>
+                <version date="2015-07-29">V1</version>
+            </verStmt>
+        </citation>
+    </docDscr>
+    <stdyDscr>
+        <citation>
+            <titlStmt>
+                <titl>Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE), United States, 1999-2008</titl>
+                <IDNo agency="ICPSR">36036</IDNo>
+                <IDNo agency="datacite">http://doi.org/10.3886/ICPSR36036.v1</IDNo>
+            </titlStmt>
+            <rspStmt>
+                <AuthEnty affiliation="Pennsylvania State University, and University of Washington">Willis, Sherry L.</AuthEnty>
+                <AuthEnty affiliation="Hebrew Senior Life-Boston, and Brown University">Jones, Richard</AuthEnty>
+                <AuthEnty affiliation="University of Alabama">Ball, Karlene</AuthEnty>
+                <AuthEnty affiliation="Hebrew Senior Life-Boston">Morris, John</AuthEnty>
+                <AuthEnty affiliation="Wayne State University, and University of Florida">Marsiske, Michael</AuthEnty>
+                <AuthEnty affiliation="New England Research Institutes">Tennstedt, Sharon</AuthEnty>
+                <AuthEnty affiliation="Indiana University">Unverzagt, Frederick</AuthEnty>
+                <AuthEnty affiliation="Johns Hopkins University">Rebok, George W.</AuthEnty>
+            </rspStmt>
+            <prodStmt>
+                <copyright> <ExtLink URI="https://www.icpsr.umich.edu/web/ICPSR/studies/36036/terms">ICPSR Terms of Use</ExtLink></copyright>
+                <fundAg>United States Department of Health and Human Services. National Institutes of Health. National Institute on Aging</fundAg>
+                <grantNo agency="United States Department of Health and Human Services. National Institutes of Health. National Institute on Aging">U01 AG14282</grantNo>
+            </prodStmt>
+            <distStmt>
+                <distrbtr abbr="ICPSR" affiliation="Institute for Social Research, University of Michigan">Ann Arbor, MI: Inter-university Consortium for Political and Social Research</distrbtr>
+                <distDate date="2024-11-05"/>
+            </distStmt>
+            <verStmt>
+                <version date="2015-07-29">V1</version>
+            </verStmt>
+            <verStmt>
+                <version date="2018-02-15">2018-02-15</version>
+                <notes>2018-02-15 The citation of this study may have changed due to the new version control system that has been implemented. The previous citation was: Willis, Sherry L., Richard Jones, Karlene Ball, John Morris, Michael Marsiske, Sharon Tennstedt, Frederick Unverzagt, and George W. Rebok. Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE), United States, 1999-2008. ICPSR36036-v1. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2015-07-29. http://doi.org/10.3886/ICPSR36036.v1</notes>
+            </verStmt>
+            <biblCit>
+  Willis, Sherry L., Jones, Richard, Ball, Karlene, Morris, John, Marsiske, Michael, Tennstedt, Sharon, … Rebok, George W. Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE), United States, 1999-2008. Inter-university Consortium for Political and Social Research [distributor], 2015-07-29. https://doi.org/10.3886/ICPSR36036.v1
+</biblCit>
+            <holdings URI="https://www.icpsr.umich.edu/web/ICPSR/studies/36036"></holdings>
+        </citation>
+        <stdyInfo>
+            <subject>
+                <keyword vocab="thesaurus">aging population</keyword>
+                <keyword vocab="thesaurus">cognitive functioning</keyword>
+                <keyword vocab="thesaurus">cognitive impairment</keyword>
+                <keyword vocab="thesaurus">eldercare</keyword>
+                <keyword vocab="thesaurus">everyday life</keyword>
+                <keyword vocab="thesaurus">geriatrics</keyword>
+                <keyword vocab="thesaurus">health care</keyword>
+                <keyword vocab="thesaurus">independent living</keyword>
+                <keyword vocab="thesaurus">memory</keyword>
+                <keyword vocab="thesaurus">physical condition</keyword>
+            </subject>
+            <abstract contentType="abstract">The data producers have recompiled the ACTIVE data into a new study which is available as of December 2023, ICPSR 38821; data users should plan to use study 38821 instead.
+ACTIVE (Advanced Cognitive Training for Independent and Vital Elderly), 1999-2008 was a multisite randomized controlled trial conducted at six field sites with New England Research Institutes (NERI) as the coordinating center. The field sites included the University of Alabama at Birmingham, Hebrew Senior Life (formerly Hebrew Rehabilitation Center for the Aged) in Boston, Indiana University, Johns Hopkins University in Baltimore, Pennsylvania State University, and Wayne State University (Detroit).
+Data in this study are drawn from measures of cognitively demanding daily activities performed by participants who received a variety of cognitive interventions. Measures included both cognitive functioning (memory, inductive reasoning, speed processing, and general knowledge) and daily functioning (everyday problem solving, observations of daily living, complex reaction time, and general functional ability). Secondary to these measures, the study also includes data on health care and service utilization, driving habits, and mobility.
+Data were collected at the start of the study (baseline) as well as one, two, three, five, and ten years into the study. This collection includes the data from the tenth year of the study as well as a comprehensive analytical dataset, incorporating data from the previous collections (data from previous waves of the study as well as participant demographic data can be found in ICPSR 4248). A total of 2,832 older adults were enrolled in the trial, and 2,802 were included in the analytical sample. Twenty-six percent of the participants were African American.</abstract>
+            <abstract contentType="purpose">PURPOSE OF THE STUDY: The scientific goal of the trial was to test the effect of three cognitive training programs on improving both cognitive function and the ability to perform certain daily tasks that rely on mental abilities.</abstract>
+            <abstract contentType="mixed">STUDY DESIGN: The design for ACTIVE was a randomized control trial.  Subjects were randomly assigned to one of three treatment groups:
+(1) Memory training;
+(2) Reasoning training;
+(3) Speed of Processing training; or
+(4) no training (control).
+The interventions occurred in replications, with each replication taking approximately 16-18 weeks. All subjects were assessed at baseline, immediately after the intervention period (post-test), and then at 12-months and 24-months. Booster sessions for each of the three training interventions are conducted within 45 days before the 12-month assessment. Phase II consisted of an assessment at 60 months following completion of training. Phase III consisted of an assessment at 120 months following completion of training. This study provides the data from Phase III activities.</abstract>
+            <abstract contentType="mixed">PRESENCE OF COMMON SCALES: CES-D, MMSE, SF-36, TICS</abstract>
+            <sumDscr>
+                <timePrd event="start" cycle="C1" date="1999"/>
+                <timePrd event="end" cycle="C1" date="2008"/>
+                <collDate event="start" cycle="C1" date="1999"/>
+                <collDate event="end" cycle="C1" date="2008"/>
+                <geogCover>Detroit</geogCover>
+                <geogCover>Baltimore</geogCover>
+                <geogCover>Indiana</geogCover>
+                <geogCover>United States</geogCover>
+                <geogCover>State College</geogCover>
+                <geogCover>Alabama</geogCover>
+                <geogCover>Maryland</geogCover>
+                <geogCover>Birmingham</geogCover>
+                <geogCover>Michigan</geogCover>
+                <geogCover>Boston</geogCover>
+                <geogCover>Pennsylvania</geogCover>
+                <geogCover>Indianapolis</geogCover>
+                <geogUnit>Metropolitan area</geogUnit>
+                <anlyUnit>Individual</anlyUnit>
+                <universe>Americans age 65 years or older living in or near one of six study regions (Baltimore Birmingham Boston Detroit Indianapolis or State College) who lived without formal care at the point of entry into the study but who were at risk of losing functional independence </universe>
+                <dataKind>observational data</dataKind>
+                <dataKind>survey data</dataKind>
+            </sumDscr>
+        </stdyInfo>
+        <method>
+            <dataColl>
+                <timeMeth>Longitudinal: Panel</timeMeth>
+                <sampProc>The sample consisted of 2,832 persons aged 65 to 94
+recruited from 6 metropolitan areas in the United States. The University of Alabama at Birmingham (UAB) recruited participants from residents of Jefferson County, Alabama, who were licensed to drive or who possessed nondriver identification cards issued through the Alabama Department of Public Safety, and they recruited from UAB eye clinics. The Hebrew Rehabilitation Center for the Aged (HRCA) in Boston, Massachusetts, recruited from congregate and senior housing sites, senior centers, and a registry of volunteers for aging research at the Harvard Cooperative Program on Aging. Indiana University recruited clients of the Community Centers of Indianapolis and through local churches and senior organizations. Johns Hopkins University recruited from senior centers, churches, senior housing, and senior organizations in the Baltimore, Maryland, metropolitan area and in Cumberland, Maryland. Pennsylvania State University recruited from the enrollment files of a state-funded pharmaceutical assistance program for low-income elders, called PACE. And Wayne State University recruited from community organizations, churches, and senior housing
+in metropolitan Detroit, as well as from state of Michigan driver registration lists. The study design also included a no-contact control group.</sampProc>
+                <collMode>cognitive assessment test</collMode>
+                <collMode> face-to-face interview</collMode>
+                <collMode> mail questionnaire</collMode>
+                <collMode> mixed mode</collMode>
+                <collMode> on-site questionnaire</collMode>
+                <collMode> telephone interview</collMode>
+                <weight>The data are not weighted, and no weight variables are present in the collection.</weight>
+            </dataColl>
+            <notes>This collection is drawn from the tenth year of the ACTIVE study. Please see ICPSR 4248 ACTIVE, 1999-2001 [United States] for data from previous years.</notes>
+            <notes>For analysis, the variable AID can be used to link the 23 datasets in this collection as well as the 43 datasets in ICPSR 4248 ACTIVE, 1999-2001 [United States].</notes>
+            <notes>Some scoring manuals cited in this collection's documentation are not included with this collection. The scoring manuals for similar data collection instruments can be found with ICPSR 4248 ACTIVE, 1999-2001 [United States].</notes>
+            <notes>The title of this collection was edited to conform to current metadata standards.</notes>
+            <notes><p>Users should review the Manual in the study level files; on page 6 of the manual the treatment groups are defined:</p>
+<p>"The design (Figure 1) for ACTIVE was a randomized control trial. Subjects were randomly assigned to one of three treatment groups:</p>
+<p>1) Memory training; 2) Reasoning training; 3) Speed of Processing training; or 4) no training (control)."</p></notes>
+            <anlyInfo/>
+        </method>
+        <dataAccs>
+            <setAvail media="online">
+                <accsPlac URI="https://www.icpsr.umich.edu/web/ICPSR/studies/36036">Inter-university Consortium for Political and Social Research</accsPlac>
+            </setAvail>
+            <useStmt>
+                <specPerm>Additional special permissions, where applicable, are described in the restrictions field </specPerm>
+                <restrctn>Access to these data is restricted. Users interested in obtaining these data must complete a Restricted Data Use Agreement,specify the reason for the request, and obtain IRB approval or notice of exemption for their research.</restrctn>
+            </useStmt>
+        </dataAccs>
+        <notes>The public-use data files in this collection are available for access by the general public. Access does not require affiliation with an ICPSR member institution.</notes>
+    </stdyDscr>
+</codeBook>

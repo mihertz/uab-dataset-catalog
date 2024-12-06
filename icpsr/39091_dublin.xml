@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2024-11-04T11:25:31</responseDate>
+    <request verb="GetRecord" set="https://pcms.icpsr.umich.edu/pcms/api/1.0/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>39091</identifier>
+                <datestamp>Mon Nov 04 11:25:32 EST 2024</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Puerto Rican Elder: Health Conditions (PREHCO) Project, 2021-2022</dc:title>
+                    <dc:creator>Crowe, Michael</dc:creator>
+                    <dc:creator>Dávila-Roman, Ana Luisa</dc:creator>
+                    <dc:identifier>39091</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/ICPSR39091.v1</dc:identifier>
+                    <dc:description>This is the third wave of the PREHCO project (Puerto Rican Elder Health
+Conditions study) and was developed between 2021 and 2022 as a collaboration between the University of Alabama in Birmingham and the University of Puerto Rico. The project began as a cross-sectional study of the non-institutionalized population aged 60 years or older in Puerto Rico. This wave followed the survivors of the 1,299 original participants at the beginning of the fieldwork and aimed to examine the predictors of cognitive decline, disability, and mortality. 
+PREHCO was designed as a study comparable to the Multicenter Project on
+Health and Well-being of Older Adults in Latin America and the Caribbean (SABE)
+developed by the Pan American Health Organization (PAHO) in several cities in
+Latin America, and with some studies carried out in the United States, mainly
+the Health and Retirement Study (HRS). 
+For this purpose, a questionnaire was designed that included sections
+on health conditions, physical and mental disability, functionality, use of
+medicines, health needs and social services, access to and use of health
+services, abuse, migration, housing conditions, patterns of help from family,
+community and public and government agencies, and others. 
+Since its inception, PREHCO has been funded with federal
+funds from the National Institute on Aging (NIA). Initially it was a project
+between the University of Wisconsin-Madison and the University of Puerto Rico
+from 2000-2009. </dc:description>
+                    <dc:subject>cognitive status</dc:subject>
+                    <dc:subject>community health</dc:subject>
+                    <dc:subject>demographic characteristics</dc:subject>
+                    <dc:subject>demographic statistics</dc:subject>
+                    <dc:subject>eldercare</dc:subject>
+                    <dc:subject>health attitudes</dc:subject>
+                    <dc:subject>health behavior</dc:subject>
+                    <dc:subject>health care access</dc:subject>
+                    <dc:subject>health problems</dc:subject>
+                    <dc:subject>health services utilization</dc:subject>
+                    <dc:subject>health status</dc:subject>
+                    <dc:subject>household composition</dc:subject>
+                    <dc:subject>older adults</dc:subject>
+                    <dc:coverage>Puerto Rico</dc:coverage>
+                    <dc:coverage>United States</dc:coverage>
+                    <dc:coverage>2021-03-01 -- 2022-07-31</dc:coverage>
+                    <dc:type>survey data</dc:type>
+                    <dcterms:dateSubmitted>2024-07-01</dcterms:dateSubmitted>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

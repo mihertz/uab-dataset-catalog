@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" xmlns="ddi:codebook:2_5"  version="2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <docDscr>
+        <citation>
+            <titlStmt>
+                <titl>Metadata record for Assessing Identity Theft Offenders' Strategies and Perceptions of Risk in the United States, 2006-2007</titl>
+                <IDNo agency="ICPSR">20622</IDNo>
+            </titlStmt>
+            <prodStmt>
+                <producer abbr="ICPSR">Inter-university Consortium for Political and Social Research</producer>
+                <copyright>ICPSR metadata records are licensed under a Creative Commons Attribution-Noncommercial 3.0 United States License <ExtLink URI="http://creativecommons.org/licenses/by-nc/3.0/us/"/>..</copyright>
+            </prodStmt>
+            <verStmt>
+                <version date="2009-03-31">V1</version>
+            </verStmt>
+        </citation>
+    </docDscr>
+    <stdyDscr>
+        <citation>
+            <titlStmt>
+                <titl>Assessing Identity Theft Offenders' Strategies and Perceptions of Risk in the United States, 2006-2007</titl>
+                <IDNo agency="ICPSR">20622</IDNo>
+                <IDNo agency="datacite">http://doi.org/10.3886/ICPSR20622.v1</IDNo>
+            </titlStmt>
+            <rspStmt>
+                <AuthEnty affiliation="University of Alabama-Birmingham">Copes, Heith</AuthEnty>
+                <AuthEnty affiliation="University of Texas-Dallas">Vieraitis, Lynne</AuthEnty>
+            </rspStmt>
+            <prodStmt>
+                <copyright> <ExtLink URI="https://www.icpsr.umich.edu/web/ICPSR/studies/20622/terms">ICPSR Terms of Use</ExtLink></copyright>
+                <fundAg>United States Department of Justice. Office of Justice Programs. National Institute of Justice</fundAg>
+                <grantNo agency="United States Department of Justice. Office of Justice Programs. National Institute of Justice">2005-IJ-CX-0012</grantNo>
+            </prodStmt>
+            <distStmt>
+                <distrbtr abbr="ICPSR" affiliation="Institute for Social Research, University of Michigan">Ann Arbor, MI: Inter-university Consortium for Political and Social Research</distrbtr>
+                <distDate date="2024-11-05"/>
+            </distStmt>
+            <verStmt>
+                <version date="2009-03-31">V1</version>
+            </verStmt>
+            <biblCit>
+  Copes, Heith, and Vieraitis, Lynne. Assessing Identity Theft Offenders’ Strategies and Perceptions of Risk in the United States, 2006-2007. Inter-university Consortium for Political and Social Research [distributor], 2009-03-31. https://doi.org/10.3886/ICPSR20622.v1
+</biblCit>
+            <holdings URI="https://www.icpsr.umich.edu/web/ICPSR/studies/20622"></holdings>
+        </citation>
+        <stdyInfo>
+            <subject>
+                <keyword vocab="thesaurus">access to information</keyword>
+                <keyword vocab="thesaurus">adult offenders</keyword>
+                <keyword vocab="thesaurus">federal prisoners</keyword>
+                <keyword vocab="thesaurus">felony offenses</keyword>
+                <keyword vocab="thesaurus">fraud</keyword>
+                <keyword vocab="thesaurus">identity theft</keyword>
+                <keyword vocab="thesaurus">inmate attitudes</keyword>
+                <keyword vocab="thesaurus">personal finances</keyword>
+                <keyword vocab="thesaurus">property crimes</keyword>
+                <keyword vocab="thesaurus">stolen property</keyword>
+                <keyword vocab="thesaurus">white collar crime</keyword>
+            </subject>
+            <abstract contentType="abstract">The purpose of this study was to examine the crime of identity theft from the offenders' perspectives. The study employed a purposive sampling strategy. Researchers identified potential interview subjects by examining newspapers (using Lexis-Nexis), legal documents (using Lexis-Nexis and Westlaw), and United States Attorneys' Web sites for individuals charged with, indicted, and/or sentenced to prison for identity theft. Once this list was generated, researchers used the Federal Bureau of Prisons (BOP) Inmate Locator to determine if the individuals were currently housed in federal facilities. Researchers visited the facilities that housed the largest number of inmates on the list in each of the six regions in the United States as defined by the BOP (Western, North Central, South Central, North Eastern, Mid-Atlantic, and South Eastern) and solicited the inmates housed in these prisons. A total of 14 correctional facilities were visited and 65 individuals incarcerated for identity theft or identity theft related crimes were interviewed between March 2006 and February 2007. Researchers used semi-structured interviews to explore the offenders' decision-making processes. When possible, interviews were audio recorded and then transcribed verbatim. Part 1 (Quantitative Data) includes the demographic variables age, race, gender, number of children, highest level of education, and socioeconomic class while growing up. Other variables include prior arrests or convictions and offense type, prior drug use and if drug use contributed to identity theft, if employment facilitated identity theft, if they went to trial or plead to charges, and sentence length. Part 2 (Qualitative Data), includes demographic questions such as family situation while growing up, highest level of education, marital status, number of children, and employment status while committing identity theft crimes. Subjects were asked about prior criminal activity and drug use. Questions specific to identity theft include the age at which the person became involved  in identity theft, how many identities he or she had stolen, if they had worked with other people to steal identities, why they had become involved in identity theft, the skills necessary to steal identities, and the perceived risks involved in identity theft.</abstract>
+            <abstract contentType="purpose">PURPOSE OF THE STUDY: The purpose of this study was to examine the crime of identity theft from the offenders' perspectives. The goal was to shed light on how identity thieves think about their crimes in order to propose policies aimed at preventing the crime and to guide future research on the topic.</abstract>
+            <abstract contentType="mixed">STUDY DESIGN: Federally convicted identity thieves were located by examining newspapers (via Lexis-Nexis) and legal documents (via Lexis-Nexis and Westlaw) from across the nation by searching press releases from each United States Attorney's Web site for the 93 United States districts. Lexis-Nexis was used to search newspapers from each state by entering the search term "identity theft" and specifying "all available years." The Lexis-Nexis Legal Research database and the Westlaw data, which include decisions for all federal court levels, were searched using the term "18 U.S.C. 1028," which is the federal statute for identity theft. The official Web site for United States Attorneys was searched to locate persons charged with, indicted, and/or sentenced to prison for identity theft. The search yielded the names of 470 individuals who had been sentenced to federal prison. Once this list was generated, researchers used the Federal Bureau of Prisons Inmate Locator to determine if they were currently being housed in federal facilities. Of the 470 identified individuals, 117 had been released, 297 were being housed in federal prison, and the remaining 56 individuals were "In Transit" or "Not in BOP Custody." Researchers visited the facilities that housed the largest number of inmates on the list in each of the six regions in the United States as defined by the Federal Bureau of Prisons (BOP) (Western, North Central, South Central, North Eastern, Mid-Atlantic, and South Eastern) and solicited the inmates housed in these prisons. A total of 14 correctional facilities were visited and 65 individuals incarcerated for identity theft or identity theft-related crimes were interviewed between March 2006 and February 2007. Six interviews were excluded because the offenders denied taking part in or having knowledge of the identity theft or because they committed fraud without stealing the victims' identities. The final sample includes 59 offenders. Researchers used semi-structured interviews to explore the offenders' decisions-making processes. When possible, interviews were audio recorded and then transcribed verbatim. However, some wardens denied the researchers permission to bring recording devices into their facilities and some offenders agreed to the interview only if it was not recorded. All but nine interviews were recorded. One interview was recorded, but due to sound quality it was not transcribed. Researchers created the quantitative file (Part 1) with information collected from the Federal Bureau of Prisons inmate locator website (age and race) and coded all other variables from the interview transcripts.</abstract>
+            <abstract contentType="mixed">DESCRIPTION OF VARIABLES: Part 1 (Quantitative Data) includes the demographic
+variables age, race, gender, number of children, highest level of education, and socioeconomic class while growing up. Other variables include prior arrests or convictions and offense type, prior drug use and if drug use contributed to identity theft, if employment facilitated identity theft, if they went to trial or plead to charges, and sentence length. Part 2 (Qualitative Data) includes demographic questions such as family situation while growing up, highest level of education, marital status, number of children, and employment status while committing identity theft crimes. Subjects were asked about prior criminal activity and drug use. Questions specific to identity theft include the age at which the person became involved in identity theft, how many identities he or she had stolen, if they had worked with other people to steal identities, why they had become involved in identity theft, the skills necessary to steal identities, and the perceived risks involved in identity theft.</abstract>
+            <sumDscr>
+                <timePrd event="start" cycle="C1" date="2006-03"/>
+                <timePrd event="end" cycle="C1" date="2007-02"/>
+                <collDate event="start" cycle="C1" date="2006-03"/>
+                <collDate event="end" cycle="C1" date="2007-02"/>
+                <geogCover>United States</geogCover>
+                <anlyUnit>individual</anlyUnit>
+                <universe>All individuals convicted of identity theft at the federal level and housed in a federal facility between March 2006 and February 2007. </universe>
+                <dataKind>survey data</dataKind>
+            </sumDscr>
+        </stdyInfo>
+        <method>
+            <dataColl>
+                <sampProc>This study employed a purposive sampling strategy. Researchers identified potential interview subjects by examining newspapers (using Lexis-Nexis), legal documents (using Lexis-Nexis and Westlaw), and United States Attorneys' Web sites for individuals  charged with, indicted, and/or sentenced to prison for identity theft. Once this list was generated, researched used the Federal Bureau of Prisons (BOP)Inmate Locator to determine if the individuals were currently housed in federal facilities. Researchers visited the facilities that housed the largest number of inmates on the list in each of the six regions in the United States as defined by the BOP (Western, North Central, South Central, North Eastern, Mid-Atlantic, and South Eastern) and solicited the inmates housed in these prisons. A total of 14 correctional facilities were visited and 65 individuals incarcerated for identity theft or identity theft related crimes were interviewed between March 2006 and February 2007.</sampProc>
+                <collMode>face-to-face interview</collMode>
+                <sources>
+                    <dataSrc>The data for this study were collected from semi-structured interviews with 59 individuals serving time for identity theft in federal prisons.</dataSrc>
+                </sources>
+            </dataColl>
+            <anlyInfo>
+                <respRate>The response rate is not available.</respRate>
+            </anlyInfo>
+        </method>
+        <dataAccs>
+            <setAvail media="online">
+                <accsPlac URI="https://www.icpsr.umich.edu/web/ICPSR/studies/20622">Inter-university Consortium for Political and Social Research</accsPlac>
+            </setAvail>
+            <useStmt>
+                <specPerm>Additional special permissions, where applicable, are described in the restrictions field </specPerm>
+                <restrctn>Access to these data is restricted. Users interested in obtaining these data must complete a Restricted Data Use Agreement,specify the reason for the request, and obtain IRB approval or notice of exemption for their research.</restrctn>
+            </useStmt>
+        </dataAccs>
+        <notes>The public-use data files in this collection are available for access by the general public. Access does not require affiliation with an ICPSR member institution.</notes>
+        <notes>One or more files in this data collection have special restrictions. Restricted data files are not available for direct download from the website; click on the Restricted Data button to learn more.</notes>
+    </stdyDscr>
+</codeBook>
