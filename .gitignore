@@ -1,4 +1,8 @@
 icpsr/
-*.xlsx
-*.xls
-*.csv
+datacite/raw-data/*
+datacite/batch-upload/*
+datacite/long*
+zenodo/raw-data/*
+zenodo/batch-upload/*
+zenodo_access_token.txt
+
