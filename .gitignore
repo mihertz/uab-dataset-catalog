@@ -1,8 +1,10 @@
-icpsr\
-datacite\raw-data\*
-datacite\batch-upload\*
-datacite\long*
-zenodo\raw-data\*
-zenodo\batch-upload\*
+icpsr/
+datacite/raw-data/*
+datacite/batch-upload/*
+datacite/long*
+zenodo/raw-data/*
+zenodo/batch-upload/*
 zenodo_access_token.txt
-
+*.json
+*.xls
+*.xlsx
